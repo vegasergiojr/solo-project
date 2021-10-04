@@ -2,6 +2,9 @@
 
 link to site https://newsapplication.surge.sh/
 
+![image](https://user-images.githubusercontent.com/54509750/135898262-ccad25ee-9c66-4c0a-ba18-30e642801cf5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
