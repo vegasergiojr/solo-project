@@ -2,6 +2,14 @@
 
 link to site https://newsapplication.surge.sh/
 
+IMPORTANT!!: The fetching of the website will stop working after 11/4/2021, Since it requires a subscription. Only subscribed for a month. 
+
+Responsive Image using Flexbox and @Media
+
+![image](https://user-images.githubusercontent.com/54509750/135898396-578fdc22-d896-4731-aacb-9b548cceb072.png)
+
+Full Screen / Monitor 
+
 ![image](https://user-images.githubusercontent.com/54509750/135898262-ccad25ee-9c66-4c0a-ba18-30e642801cf5.png)
 
 
